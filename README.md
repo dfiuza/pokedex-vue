@@ -1,7 +1,7 @@
 <h1> # Pokedex API </h1>
 
 1- <h5>Esse é um projeto de uma Pokedex feita em Vue. Esse projeto é um teste para Fidelizou.me.</h5>
-<h4>Como ja subi com as dependencias, creio eu que é só fazer o prcedimento 3, mas caso solecite, segue abaixo</h4> <br>
+<h4>Como ja subi com as dependencias, creio eu que é só fazer o procedimento 3, mas caso solecite, segue abaixo</h4> <br>
 
 1.1- <h4>Instalar as depencias:</h4>
 
