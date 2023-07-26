@@ -15,7 +15,7 @@ Além disso tive que baixar esse aplicativo para atualizar o nvm: <br>
 https://github.com/coreybutler/nvm-windows/releases <br>
 nvm-setup.exe. <br>
 
-Windows command prompt-
+ <br> Windows command prompt-
 
 set NODE_OPTIONS=--openssl-legacy-provider
 
