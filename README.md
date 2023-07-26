@@ -11,6 +11,7 @@ run npm install
 <p>Antes de rodar aqui em casa preciso setar esse comando no meu sistema operacional, faz algum tempo que não formato o micro, pode ser alguma coisa aqui, que não me achei. <br>
 Somente projetos Vue que preciso fazer isso, React ou React Native não. <br>
 Pode ser dentro da pasta do projeto mesmo</p>
+Além disso tive que baixar esse aplicativo para atualizar o nvm nvm-setup.exe.
 
 Windows command prompt-
 
