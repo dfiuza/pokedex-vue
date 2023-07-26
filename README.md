@@ -12,6 +12,7 @@ run npm install
 Somente projetos Vue que preciso fazer isso, React ou React Native não. <br>
 Pode ser dentro da pasta do projeto mesmo</p>
 Além disso tive que baixar esse aplicativo para atualizar o nvm: <br> 
+https://github.com/coreybutler/nvm-windows/releases <br>
 nvm-setup.exe. <br>
 
 Windows command prompt-
